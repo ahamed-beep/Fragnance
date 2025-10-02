@@ -179,7 +179,7 @@ const ProductDetail = () => {
             </button>
           </div>
 
-          <div className=" border-t border-[#e5e5e5] w-150" >
+          <div className=" border-t border-[#e5e5e5] w-full md:w-150" >
 
           </div>
          <div className="w-full justify-start items-start flex flex-col  bg-white  py-2">
@@ -188,7 +188,7 @@ const ProductDetail = () => {
       </p>
 
       {/* Product Bundle */}
-      <div className="flex items-center justify-start gap-6 mb-2">
+      <div className="flex md:flex-row flex-col items-center justify-start gap-6 mb-2">
         {/* Product 1 */}
         <div className=" bg-gray-50">
 
