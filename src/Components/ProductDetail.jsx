@@ -183,7 +183,7 @@ const ProductDetail = () => {
 
           </div>
          <div className="w-full justify-start items-start flex flex-col  bg-white  py-2">
-      <p className="text-[#666] text-sm mb-4 leading-relaxed">
+      <p className="text-[#666] text-sm mb-4 mt-1 leading-relaxed">
         Pair it with our "100% natural essential oil blends to add aromatherapeutic benefits to your hair
       </p>
 
