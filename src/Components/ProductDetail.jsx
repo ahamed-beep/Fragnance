@@ -194,12 +194,12 @@ const ProductDetail = () => {
 
        
         <div className="flex flex-col items-center">
-          <div className="relative  w-20 h-25 md:w-24 md:h-32 ">
+          <div className="relative  w-15 h-20 md:w-24 md:h-32 ">
             <img src="/Images/p2.jpg" alt="Pair Essential 01 - Good Night" className="w-full h-full object-contain" />
             
           </div>
           <p className="text-[11px]  font-bold whitespace-nowrap -mt-2 mb-2 px-4 text-[#666] ">Pair Essential 01 - Good Night</p>
-          <div className=" flex justify-between gap-32 ">
+          <div className=" flex justify-between gap-25  md:gap-32 ">
 
           
           <button
@@ -221,12 +221,12 @@ const ProductDetail = () => {
 
        
         <div className="flex flex-col items-center">
-          <div className="relative w-20 h-25 md:w-24 md:h-32 ">
+          <div className="relative w-15 h-20 md:w-24 md:h-32 ">
             <img src="/Images/p2.jpg" alt="Pair Essential 01 - Good Night" className="w-full h-full object-contain" />
             
           </div>
           <p className="text-[11px]  font-bold whitespace-nowrap -mt-2 mb-2 px-4 text-[#666] ">Pair Essential 01 - Good Night</p>
-          <div className=" flex justify-between gap-32 ">
+          <div className=" flex justify-between gap-25 md:gap-32 ">
 
           
           <button
