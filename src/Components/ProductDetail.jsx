@@ -217,7 +217,7 @@ const ProductDetail = () => {
         <div className="text-2xl font-bold text-[#333] mt-3">+</div>
 
         {/* Product 2 */}
-             <div className="w-25 md:w-full bg-gray-50">
+             <div className=" bg-gray-50">
 
        
         <div className="flex flex-col items-center">
