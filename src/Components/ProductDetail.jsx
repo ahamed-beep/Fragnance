@@ -199,7 +199,7 @@ const ProductDetail = () => {
             
           </div>
           <p className="text-[11px]  font-bold whitespace-nowrap -mt-2 mb-2 px-4 text-[#666] ">Pair Essential 01 - Good Night</p>
-          <div className=" flex justify-between gap-25  md:gap-32 ">
+          <div className=" flex justify-between gap-20  md:gap-32 ">
 
           
           <button
@@ -226,7 +226,7 @@ const ProductDetail = () => {
             
           </div>
           <p className="text-[11px]  font-bold whitespace-nowrap -mt-2 mb-2 px-4 text-[#666] ">Pair Essential 01 - Good Night</p>
-          <div className=" flex justify-between gap-25 md:gap-32 ">
+          <div className=" flex justify-between gap-20 md:gap-32 ">
 
           
           <button
