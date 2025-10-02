@@ -209,7 +209,7 @@ const ProductDetail = () => {
             >
               {product1Selected && <Check className="w-3 h-3 text-[#333]" strokeWidth={3} />}
             </button>
-          <p className="text-sm  font-light">$19.90</p>
+          <p className="  text-xs md:text-sm  font-light">$19.90</p>
         </div>
         </div>
  </div>
@@ -231,12 +231,12 @@ const ProductDetail = () => {
           
           <button
               onClick={() => setProduct2Selected(!product2Selected)}
-              className="  w-4 h-4 bg-white border rounded-xs border-[#999] flex items-center justify-center cursor-pointer hover:border-[#666] transition-colors"
+              className=" w-3 h-3 md:w-4 md:h-4 bg-white border rounded-xs border-[#999] flex items-center justify-center cursor-pointer hover:border-[#666] transition-colors"
               aria-label="Toggle Product 1"
             >
               {product2Selected && <Check className="w-3 h-3 text-[#333]" strokeWidth={3} />}
             </button>
-          <p className="text-sm  font-light">$19.90</p>
+          <p className="text-xs md:text-sm  font-light">$19.90</p>
         </div>
         </div>
  </div>
