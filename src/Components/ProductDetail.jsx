@@ -194,7 +194,7 @@ const ProductDetail = () => {
 
        
         <div className="flex flex-col items-center">
-          <div className="relative  w-10 h-15 md:w-24 md:h-32 ">
+          <div className="relative  w-15 h-20 md:w-24 md:h-32 ">
             <img src="/Images/p2.jpg" alt="Pair Essential 01 - Good Night" className="w-full h-full object-contain" />
             
           </div>
@@ -217,11 +217,11 @@ const ProductDetail = () => {
         <div className="text-2xl font-bold text-[#333] mt-3">+</div>
 
         {/* Product 2 */}
-             <div className=" bg-gray-50">
+             <div className="w-50 md:w-full bg-gray-50">
 
        
         <div className="flex flex-col items-center">
-          <div className="relative w-10 h-15 md:w-24 md:h-32 ">
+          <div className="relative w-10 h-20 md:w-24 md:h-32 ">
             <img src="/Images/p2.jpg" alt="Pair Essential 01 - Good Night" className="w-full h-full object-contain" />
             
           </div>
