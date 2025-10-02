@@ -236,7 +236,7 @@ const ProductDetail = () => {
             >
               {product2Selected && <Check className="w-3 h-3 text-[#333]" strokeWidth={3} />}
             </button>
-          <p className="text-xs md:text-sm  font-light">$19.90</p>
+          <p className="text-xs md:text-sm   font-light">$19.90</p>
         </div>
         </div>
  </div>
