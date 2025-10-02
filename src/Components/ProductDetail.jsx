@@ -198,7 +198,7 @@ const ProductDetail = () => {
             <img src="/Images/p2.jpg" alt="Pair Essential 01 - Good Night" className="w-full h-full object-contain" />
             
           </div>
-          <p className="text-[11px]  font-bold whitespace-nowrap -mt-2 mb-2 px-4 text-[#666] ">Pair Essential 01 - Good Night</p>
+          <p className=" text-[8px] md:text-[11px]  font-bold whitespace-nowrap -mt-2 mb-2 px-4 text-[#666] ">Pair Essential 01 - Good Night</p>
           <div className=" flex justify-between gap-20  md:gap-32 ">
 
           
@@ -225,7 +225,7 @@ const ProductDetail = () => {
             <img src="/Images/p2.jpg" alt="Pair Essential 01 - Good Night" className="w-full h-full object-contain" />
             
           </div>
-          <p className="text-[11px]  font-bold whitespace-nowrap -mt-2 mb-2 px-4 text-[#666] ">Pair Essential 01 - Good Night</p>
+          <p className=" md:text-[11px] text-[8px]  font-bold whitespace-nowrap -mt-2 mb-2 px-4 text-[#666] ">Pair Essential 01 - Good Night</p>
           <div className=" flex justify-between gap-15 md:gap-32 ">
 
           
