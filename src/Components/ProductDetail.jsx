@@ -188,7 +188,7 @@ const ProductDetail = () => {
       </p>
 
       {/* Product Bundle */}
-      <div className="flex   items-center justify-start  md:gap-6 mb-2">
+      <div className="flex   items-center justify-start gap-4  md:gap-6 mb-2">
         {/* Product 1 */}
         <div className=" bg-gray-50">
 
