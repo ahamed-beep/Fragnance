@@ -188,13 +188,13 @@ const ProductDetail = () => {
       </p>
 
       {/* Product Bundle */}
-      <div className="flex md:flex-row flex-col items-center justify-start gap-6 mb-2">
+      <div className="flex   items-center justify-start gap-2 md:gap-6 mb-2">
         {/* Product 1 */}
         <div className=" bg-gray-50">
 
        
         <div className="flex flex-col items-center">
-          <div className="relative w-24 h-32 ">
+          <div className="relative  w-20 h-25 md:w-24 md:h-32 ">
             <img src="/Images/p2.jpg" alt="Pair Essential 01 - Good Night" className="w-full h-full object-contain" />
             
           </div>
@@ -221,7 +221,7 @@ const ProductDetail = () => {
 
        
         <div className="flex flex-col items-center">
-          <div className="relative w-24 h-32 ">
+          <div className="relative w-20 h-25 md:w-24 md:h-32 ">
             <img src="/Images/p2.jpg" alt="Pair Essential 01 - Good Night" className="w-full h-full object-contain" />
             
           </div>
